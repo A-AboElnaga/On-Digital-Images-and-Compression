@@ -1,7 +1,7 @@
 # On-Digital-Images-and-Compression
 
 
-# PDF-Contents:
+## PDF-Contents:
 
 - [Introduction](#Introduction)
 - [Different ways to represent an image as a matrix](#Different)
