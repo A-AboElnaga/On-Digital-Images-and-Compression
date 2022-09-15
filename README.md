@@ -1,2 +1,10 @@
 # On-Digital-Images-and-Compression
-A report on digital image that I have submitted for my the first linear algebra course in fall '20
+
+
+# PDF-Contents:
+
+- [Introduction](#Introduction)
+- [Different ways to represent an image as a matrix](#)
+- [What is Image Compression](#)
+- [Basic idea behind JPEG format](#)
+- [References](#)
