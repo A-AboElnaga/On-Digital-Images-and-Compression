@@ -1,4 +1,4 @@
-# On-Digital-Images, Representation,-Compression,-and-JPEG-format 
+# On Digital Images, Representation, Compression, and JPEG format 
 
 
 ## PDF-Contents:
